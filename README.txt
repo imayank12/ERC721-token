@@ -1,1 +1,3 @@
-erc721 token
+ERC721 token.
+rinkby contract address: 0x2f00877c300A9070d5c2BF72388c1617b07d3053
+Matic Mumbai contract address : 0x9F0b1c11904c31bDEb6f40F5f543df82b15F6C9E
